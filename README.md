@@ -1,4 +1,4 @@
-# Calling-REST-API
+# Calling-REST-API-in-Android
 <br>
 <b>This repository helps to connect ot a REST API of AndroidHive and parses the JSON response.</b><br>
  
